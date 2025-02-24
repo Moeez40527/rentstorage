@@ -1,2 +1,0 @@
-# rentstorage
-My awesome repository
